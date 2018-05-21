@@ -3,6 +3,7 @@ For This Project, I will design and implement an online photo gallery in PHP. My
 
 
  ##  Design and Intro
+[Requirement](requirement/project-3.pdf)<br/>
 [Design Plan](design-plan/design-plan.md)<br/>
 [Skectch1](design-plan/sketch1.jpg)<br/>
 [Skectch2](design-plan/sketch2.jpg)<br/>
