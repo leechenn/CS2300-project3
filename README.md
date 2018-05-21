@@ -23,4 +23,4 @@ For This Project, I will design and implement an online photo gallery in PHP. My
 
  ![](images/layout6.png)
 
- My sketches illustrate that users can review all pictures at one time in gallery, the layout is concise for user to manipulate, every functionality can be done in one page, which is very convenient for a user.
+ My sketches illustrate that users can review all pictures at one time in gallery.  If user login, he or she can view all pictures which were uploaded on 'My Gallery' page, user can filter pictures by a tag, upload or delete a picture as well, the layout of this website is concise for user to manipulate, every functionality can be done in one page, which is very convenient for a user.
